@@ -10,23 +10,23 @@
 ### Part A: Service Discovery
 
 **EC2 (Compute):**
-- Purpose: [Your answer]
+- Purpose: [Run virtual servers to host applications and workloads.]
 - Screenshot: ![EC2 Dashboard](screenshots/console-navigation/ec2-dashboard.png)
 
 **S3 (Storage):**
-- Purpose: [Your answer]
+- Purpose: [Store and retrieve files (like images, backups, and documents) in the cloud.]
 - Screenshot: ![S3 Dashboard](screenshots/console-navigation/s3-dashboard.png)
 
 **RDS (Database):**
-- Purpose: [Your answer]
+- Purpose: [Run and manage relational databases without handling server setup.]
 - Screenshot: ![RDS Dashboard](screenshots/console-navigation/rds-dashboard.png)
 
 **VPC (Networking):**
-- Purpose: [Your answer]
+- Purpose: [Create a private network in AWS to securely control traffic between resources.]
 - Screenshot: ![VPC Dashboard](screenshots/console-navigation/vpc-dashboard.png)
 
 **IAM (Security):**
-- Purpose: [Your answer]
+- Purpose: [Manage users, roles, and permissions to control access to AWS resources.]
 - Screenshot: ![IAM Dashboard](screenshots/console-navigation/iam-dashboard.png)
 
 ### Part B: Console Features
